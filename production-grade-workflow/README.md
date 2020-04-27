@@ -11,3 +11,5 @@ Referencing container directories to local.
 
 ## Multi Stage Build
 ![multi stage](../img/docker-multi-stage-build.png)
+
+## CICD with AWS
